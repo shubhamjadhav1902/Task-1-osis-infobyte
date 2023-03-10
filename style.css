@@ -1,0 +1,126 @@
+body{
+  background-color: black;
+  font-family:'Oswald';
+  color: white;
+}
+
+#whatIsCloudComputing{
+  cursor: pointer;
+  display: inline-block;
+  border: 5px dashed white;
+  padding: 10px;
+  font-family:'Oswald';
+  text-align: center;
+  color: white;
+  
+}
+
+#whatIsCloudComputing:hover{
+  border: 5px solid white;
+  transition-duration: 350ms;
+  transition-timing-function: ease-in;
+}
+
+#cloudTheory{
+  color: white;
+  font-family:'Oswald' ;
+  border-radius: 30px;
+  padding: 40px;
+  font-size: 20px;
+}
+
+#cloudTheory:hover{
+  text-align: left;
+  color: black;
+  background-color: white;
+  cursor: pointer;
+  transition-duration: 350ms;
+  transition-timing-function: ease-in;
+}
+
+#topBenefitsOfCloudComputingHeader{
+  padding:20px;
+  color: white;
+}
+
+#benefitsTable{
+  padding:20px;
+  color: white;
+  font-size: 20px;
+}
+
+
+
+table{
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+td{
+  padding:10px;
+}
+
+td:hover{
+  background-color: white;
+  color: black;
+  cursor: pointer;
+  transition-duration: 350ms;
+  transition-timing-function: ease-in;
+}
+
+#cloudDeploymentModels{
+  font-size: 20px;
+  padding: 40px;
+}
+
+#cloudDeploymentModelsList{
+  padding:10px;
+  border-radius: 10px;
+}
+
+#cloudDeploymentModelsList:hover{
+  text-align: left;
+  color: black;
+  background-color: white;
+  cursor: pointer;
+  transition-duration: 350ms;
+  transition-timing-function: ease-in;
+}
+
+#usesOfCloudTable{
+  font-size: 20px;
+}
+
+#usesOfCloud{
+  padding: 40px;
+}
+
+#end{
+  display: inline-block;
+  border: 5px dashed;
+  padding: 10px;
+}
+
+#end:hover{
+  border-color: red green yellow violet;
+  transition-duration: 350ms;
+  transition-timing-function: ease-in;
+  cursor: pointer;
+}
+
+#conclusion{
+  color: white;
+  font-family:'Oswald' ;
+  border-radius: 30px;
+  padding: 40px;
+  font-size: 20px;
+}
+
+#conclusion:hover{
+  text-align: left;
+  color: black;
+  background-color: white;
+  cursor: pointer;
+  transition-duration: 350ms;
+  transition-timing-function: ease-in;
+}
